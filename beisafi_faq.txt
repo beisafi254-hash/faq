@@ -1,0 +1,242 @@
+BEiSAFi – Buyer & Seller FAQ (For Chatbot Use)
+
+==========================================
+SECTION 1: GENERAL BUYER FAQ
+==========================================
+
+[Getting Started]
+
+Q: How do I create a BEiSAFi account?
+A: Click "Sign Up" on the homepage, enter your email and password, then verify your email. After verification you can start browsing and buying immediately.
+
+Q: How do I find products?
+A: Use the search bar to search by keyword, or browse by category from the homepage. You can filter by price, condition, location (county/town), and category-specific attributes such as brand, RAM, storage and other features for electronics.
+
+Q: What is the Watchlist?
+A: The Watchlist lets you save products you are interested in. Click the heart icon on any listing to add it. You may receive notifications if prices change or if watched auction items are about to end.
+
+Q: How do I contact a seller?
+A: Click "Contact Seller" on any listing to send a message through secure in-app messaging. All communication should remain on BEiSAFi for your protection. Do not share personal contact information such as phone numbers or email addresses in messages.
+
+------------------------------------------
+[Payments]
+
+Q: What payment methods are accepted?
+A: Payments are made using M-Pesa only. All payments are processed securely through BEiSAFi using STK Push. You receive a prompt on your phone and confirm with your M-Pesa PIN.
+
+Q: How do I pay with M-Pesa?
+A: At checkout, enter your M-Pesa phone number and click "Pay". You will receive an STK push on your phone. Enter your M-Pesa PIN to complete payment. Once payment is verified, the order status automatically updates to Paid.
+
+Q: Is my payment safe?
+A: Yes. Your payment is confirmed directly with M-Pesa before the order is marked as paid. Payment is held in an escrow-style system and is released to the seller only after you confirm delivery or after a protected time window passes without a dispute.
+
+Q: What if my payment fails or shows as pending?
+A: If the M-Pesa payment fails, check your balance and try again. If money is deducted but the order shows as pending, allow a few minutes for verification. If it is still pending, contact support and share the M-Pesa receipt number.
+
+Q: Do I get a payment receipt?
+A: Yes. After successful payment you receive a detailed receipt by email that includes order details, the M-Pesa transaction reference and payment breakdown. You can also view and download receipts in your Order History.
+
+------------------------------------------
+[Shipping & Delivery]
+
+Q: What shipping options are available?
+A: Shipping options depend on the seller and will be shown on the listing. Typical options are:
+- Bus/Matatu SACCO delivery (collect from the agreed stage; sacco name and bus number are provided by the seller).
+- Bike/Boda courier (door-to-door delivery with rider contact).
+- Local pickup or self-pickup.
+
+Q: How long does delivery take?
+A: Sellers are expected to ship within 2 business days after payment. Transit time then depends on the chosen method: local pickup can be immediate; bus delivery usually takes 1–3 days to your nearest stage; bike courier varies with distance.
+
+Q: How do I track my order?
+A: Go to "Order History" in your account. Each order has a delivery timeline: Paid → Shipped → Delivered → Received. When shipped by Bus SACCO, you can see the sacco name and bus number. For bike delivery you see the rider’s contact details.
+
+Q: Why do I need to confirm delivery?
+A: Confirming delivery releases payment to the seller and lets you rate your experience. You will be asked to upload a photo of the received item and give a rating. This protects both buyers and sellers and keeps the marketplace safe.
+
+Q: What if my item does not arrive?
+A: First contact the seller through in-app messaging. If you still do not receive the item within the expected delivery window, you can open a dispute under BEiSAFi Buyer Protection and request a refund for non-delivery.
+
+------------------------------------------
+[Buyer Protection]
+
+Q: What is Buyer Protection?
+A: BEiSAFi Buyer Protection means you either receive the item you ordered or you get your money back. Payment is held until you confirm delivery. Protection covers: Item Not Received, Item Not as Described, and Item Damaged in transit.
+
+Q: How do I rate my seller?
+A: After confirming delivery, you are prompted to rate the seller. You pick a sentiment (Positive, Neutral, or Negative), rate item quality from 1–5 stars, write a short comment and optionally upload photos.
+
+Q: What if I am not satisfied with my purchase?
+A: If you leave a Negative rating you can also request a return directly from the rating page. You describe the issue, upload photos, and submit the request. The seller and BEiSAFi support will then review the case.
+
+Q: How long do refunds take?
+A: After a refund is approved, it is processed via M-Pesa to the phone number used at checkout, usually within 24–48 hours.
+
+------------------------------------------
+[Auctions – Buyers]
+
+Q: How do I bid on an auction?
+A: Open the auction listing and click "Place Bid". Enter a bid that is higher than the current bid plus the minimum increment. When you place a bid you agree that if you win, you will pay within the specified payment window (for example 48 hours).
+
+Q: What is auto-bidding?
+A: Auto-bidding lets you set a maximum price you are willing to pay. The system will automatically place the minimum bid needed to keep you in the lead, up to your maximum. Other bidders only see the current bid, not your maximum.
+
+Q: What happens if I win an auction?
+A: You receive an email and in‑app notification that you have won. You must complete M-Pesa payment within the required time window. After payment is verified, the order appears in your Order History and the seller prepares shipment.
+
+Q: What is a reserve price?
+A: Some auctions have a hidden minimum price (reserve price). If bidding does not reach this amount by the time the auction ends, the item may not be sold and the status may show "Reserve Not Met".
+
+------------------------------------------
+[Returns & Refunds]
+
+Q: What is the return policy?
+A: Returns depend on the issue:
+- Item Not Received: full refund.
+- Not As Described: return for refund; seller normally pays return shipping.
+- Item Damaged: return with photos required; refund is issued after review.
+- Change of Mind: depends on the seller’s individual policy.
+
+Q: How do I request a return?
+A: After leaving a Negative rating, click "Request Return". Select a reason, describe the problem and upload supporting photos. The seller and BEiSAFi support will review and guide next steps.
+
+Q: Who pays for return shipping?
+A: If the problem is the seller’s fault (e.g. wrong item, damaged, not as described), the seller pays for return shipping. If you change your mind, you will usually pay return shipping unless the seller offers free returns.
+
+
+
+==========================================
+SECTION 2: SELLER FAQ
+==========================================
+
+[Getting Started]
+
+Q: How do I start selling on BEiSAFi?
+A: 1) Create an account and verify your email. 2) Click "Sell" and complete the seller waitlist form with your phone number and ID number. 3) Upload clear photos of your ID (front and back) when ready. 4) Wait for admin review. 5) Once approved, you gain access to the Seller Dashboard and can start listing.
+
+Q: What documents do I need for verification?
+A: You need your National ID number, clear images of your ID (front and back) and the M-Pesa phone number that will receive payments. Business sellers may also need to upload their Business Registration documents.
+
+Q: How long does seller verification take?
+A: Verification is usually completed within 24–48 hours. You receive an email when your account is approved or when more information is required.
+
+Q: What if my verification is rejected?
+A: You will receive a message explaining the problem (for example blurred photos or mismatched information). Your previous KYC submission is cleared and you can correct the issues and submit fresh documents.
+
+Q: What are the seller status stages?
+A: Seller stages are:
+- None: normal buyer only.
+- Waitlist: seller has registered interest but has not uploaded ID.
+- Pending Verification: ID and documents submitted, waiting for admin review.
+- Approved: fully verified seller; can list and sell.
+- Rejected or Suspended: cannot sell until issues are resolved with support.
+
+------------------------------------------
+[Fees and Payments]
+
+Q: What fees does BEiSAFi charge sellers?
+A: BEiSAFi uses two main fees:
+1) Insertion Fee – a fee charged per listing after your monthly free quota is used.
+2) Final Value Fee – a percentage commission charged on the sale price when an item is sold.
+
+Q: How many free listings do I get each month?
+A: 
+- Free plan: 5 free listings per month, then insertion fee per extra listing.
+- Small Business plan: 75 free listings per month, then a lower insertion fee per extra listing.
+- Business and Enterprise plans: unlimited free listings.
+All listing quotas reset on the first day of every month. Deleting items does not restore used free listings.
+
+Q: When do I get paid for an order?
+A: You are paid after the buyer confirms delivery or after a protected auto-release period if no dispute is opened. Payouts go to the M-Pesa number saved in your seller profile.
+
+Q: How do I receive payments?
+A: Payments are sent via M-Pesa to your registered phone number. Ensure the number is correct and active in your profile settings.
+
+Q: How am I notified about new orders?
+A: When an order is paid, you receive an email and an in-app notification with order details and a link to view shipping information in your Seller Dashboard.
+
+------------------------------------------
+[Creating and Managing Listings]
+
+Q: How do I create a listing?
+A: From the Seller Dashboard, click "Create Listing" or "Sell". Choose a category and subcategory, upload at least five clear photos, fill in the title, description, price, condition, location and shipping options, then publish.
+
+Q: How many photos must I upload?
+A: At least five photos are required for every listing. Use different angles and include close-ups of any wear, defects or important details.
+
+Q: What are category-specific attributes?
+A: Each category includes specific fields that help buyers filter and compare items. Examples:
+- Phones: brand, model, RAM, storage, battery capacity, screen size, network, etc.
+- Laptops: processor, RAM, storage type and size, graphics, display size and resolution, etc.
+Filling these fields accurately improves search visibility.
+
+Q: Can I edit a listing after it is published?
+A: Yes. Go to Seller Dashboard → My Listings → Edit. You can edit price, description, photos and some details. Auctions with active bids may have restrictions on price or quantity changes.
+
+Q: What happens if I exceed my free listing limit?
+A: When you try to publish another item after using all free listings for your plan, you will be prompted to pay an insertion fee via M-Pesa or to upgrade your plan. You may also save the listing as draft and publish later.
+
+------------------------------------------
+[Shipping and Fulfilment – Sellers]
+
+Q: Which shipping methods can I offer?
+A: Sellers can offer:
+1) Bus/Matatu SACCO – enter sacco name and optionally bus number, driver phone and other details.
+2) Bike/Boda courier – enter the rider’s phone number and optionally bike number plate.
+3) Self-pickup or local delivery – agree on a pickup time and location using in-app messages.
+
+Q: How do I mark an order as shipped?
+A: In the Seller Dashboard, open Orders, select the correct order and click "Mark as Shipped". Choose the shipping method and fill required fields (for example sacco name and bus number for bus deliveries, or rider phone for bike deliveries). Once saved, the system updates the order status to Shipped and the buyer is notified by email and in-app notification.
+
+Q: Can I see the buyer’s shipping details?
+A: Yes. After payment is confirmed you can view the buyer’s shipping name, phone number and address. Access to this information is time-limited and used only for fulfilment to protect buyer privacy.
+
+Q: How long do I have to ship an order?
+A: Sellers are expected to ship within 2 business days after payment confirmation. Delays may negatively affect your seller rating and future visibility in search results.
+
+Q: How should I communicate with buyers?
+A: Use the built-in messaging linked to each order. You can coordinate shipping, delivery time and answer any questions. Keep conversations on BEiSAFi so that they are recorded for dispute resolution if needed.
+
+------------------------------------------
+[Auctions – Sellers]
+
+Q: How do I list an item as an auction?
+A: When creating a listing, select the "Auction" format. Set a starting bid, minimum increment and auction duration. Optionally set a reserve price (a hidden minimum you are willing to accept).
+
+Q: What is a reserve price and how does it work?
+A: A reserve price is the hidden minimum amount you will accept for an item. If the highest bid at the end of the auction is below your reserve price, the auction ends without a completed sale and you are not required to ship the item.
+
+Q: What is auto-relist?
+A: Auto-relist can automatically relist unsold auctions. If an auction ends with no bids or below the reserve, the system can create a new auction for the same item, optionally with a lower starting price, until it sells or until a defined floor level is reached.
+
+Q: What happens when my auction ends successfully?
+A: If the reserve is met or there is no reserve, the highest bidder becomes the winning buyer. They are given a limited time window to pay via M-Pesa. Once payment is verified, the order appears in your Orders list and you ship it like any normal order.
+
+------------------------------------------
+[Account, Policies and Ratings]
+
+Q: Why was my listing flagged?
+A: Listings can be flagged for several reasons including: sharing contact details in the listing (phone, email, WhatsApp), listing prohibited items, misleading descriptions or inappropriate images. When flagged you receive a notification explaining the reason. Flagged listings may be hidden until corrected or reviewed by support.
+
+Q: What is the seller strike system?
+A: Policy violations add strikes to your account. More strikes lead to stronger consequences such as temporary restrictions or full suspension. During suspension your active listings are paused or hidden until your account is reviewed.
+
+Q: What happens if my account is suspended?
+A: When suspended you cannot create or edit listings and your current listings are stopped. After review, if your account is reinstated, listings may return to Draft status so that you can update them to comply with policy before reactivating.
+
+Q: What are seller tip emails?
+A: BEiSAFi sends reminder and tip emails to encourage good listing practices and help you succeed. You can opt out by turning off Seller Tips & Reminders from your profile settings. Messages are limited so you will not receive more than one every 48 hours.
+
+Q: How do buyers rate me?
+A: After delivery is confirmed, buyers choose an overall sentiment (Positive / Neutral / Negative), rate item quality and overall experience and may leave written feedback with optional photos. Your seller profile shows your positive feedback percentage and total number of ratings.
+
+Q: Am I notified when a buyer leaves feedback?
+A: Yes. You receive both an email and an in-app notification when new feedback is posted, including sentiment and rating information, plus a link to view the full review.
+
+Q: How do I handle return requests?
+A: When a buyer submits a return request, you receive the reason, description and supporting photos. You should reply quickly, propose a resolution and if necessary arrange return shipping. BEiSAFi support can mediate if there is a disagreement.
+
+Q: Can I respond to negative feedback?
+A: Feedback cannot usually be removed except when it clearly breaks policy. You can focus on giving excellent service to earn more positive reviews and improve your overall score.
+
+End of FAQ.
